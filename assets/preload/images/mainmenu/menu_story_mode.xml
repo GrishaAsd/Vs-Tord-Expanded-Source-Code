@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_story_mode.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="story_mode basic0000" x="0" y="0" width="638" height="303"/>
+	<SubTexture name="story_mode white0000" x="638" y="0" width="635" height="300" frameX="-9" frameY="-6" frameWidth="654" frameHeight="312"/>
+	<SubTexture name="story_mode white0001" x="1273" y="0" width="635" height="300" frameX="-9" frameY="-6" frameWidth="654" frameHeight="312"/>
+	<SubTexture name="story_mode white0002" x="1908" y="0" width="635" height="300" frameX="-9" frameY="-6" frameWidth="654" frameHeight="312"/>
+	<SubTexture name="story_mode white0003" x="0" y="303" width="637" height="301" frameX="-8" frameY="-6" frameWidth="654" frameHeight="312"/>
+	<SubTexture name="story_mode white0004" x="637" y="303" width="638" height="302" frameX="-8" frameY="-5" frameWidth="654" frameHeight="312"/>
+	<SubTexture name="story_mode white0005" x="1275" y="303" width="641" height="303" frameX="-6" frameY="-5" frameWidth="654" frameHeight="312"/>
+	<SubTexture name="story_mode white0006" x="1916" y="303" width="643" height="305" frameX="-5" frameY="-4" frameWidth="654" frameHeight="312"/>
+	<SubTexture name="story_mode white0007" x="0" y="608" width="647" height="307" frameX="-3" frameY="-3" frameWidth="654" frameHeight="312"/>
+	<SubTexture name="story_mode white0008" x="647" y="608" width="650" height="309" frameX="-2" frameY="-2" frameWidth="654" frameHeight="312"/>
+	<SubTexture name="story_mode white0009" x="1297" y="608" width="654" height="312"/>
+	<SubTexture name="story_mode white0010" x="1951" y="608" width="650" height="309" frameX="-2" frameY="-2" frameWidth="654" frameHeight="312"/>
+	<SubTexture name="story_mode white0011" x="0" y="920" width="647" height="307" frameX="-3" frameY="-3" frameWidth="654" frameHeight="312"/>
+	<SubTexture name="story_mode white0012" x="647" y="920" width="644" height="305" frameX="-5" frameY="-4" frameWidth="654" frameHeight="312"/>
+	<SubTexture name="story_mode white0013" x="1291" y="920" width="641" height="304" frameX="-6" frameY="-4" frameWidth="654" frameHeight="312"/>
+	<SubTexture name="story_mode white0014" x="1932" y="920" width="639" height="303" frameX="-7" frameY="-5" frameWidth="654" frameHeight="312"/>
+	<SubTexture name="story_mode white0015" x="0" y="1227" width="637" height="301" frameX="-8" frameY="-6" frameWidth="654" frameHeight="312"/>
+	<SubTexture name="story_mode white0016" x="637" y="1227" width="636" height="301" frameX="-9" frameY="-6" frameWidth="654" frameHeight="312"/>
+	<SubTexture name="story_mode white0017" x="1273" y="1227" width="635" height="300" frameX="-9" frameY="-6" frameWidth="654" frameHeight="312"/>
+	<SubTexture name="story_mode white0018" x="1908" y="1227" width="635" height="300" frameX="-9" frameY="-6" frameWidth="654" frameHeight="312"/>
+	<SubTexture name="story_mode white0019" x="638" y="0" width="635" height="300" frameX="-9" frameY="-6" frameWidth="654" frameHeight="312"/>
+</TextureAtlas>

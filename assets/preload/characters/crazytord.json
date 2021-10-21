@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-120,
+				294
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "crazytordidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				287
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "crazytordleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-121,
+				264
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "crazytorddown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-101,
+				294
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "crazytordup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-139,
+				283
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "crazytordright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-112,
+				284
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "crazytordlaugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/crazytord",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "crazytord",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		20,
+		20
+	],
+	"camera_position": [
+		-40,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

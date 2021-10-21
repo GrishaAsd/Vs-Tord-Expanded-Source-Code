@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eddmatt.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="eddmatt0000" x="0" y="0" width="494" height="664" pivotX="-2.45" pivotY="-48.65"/>
+	<SubTexture name="eddmatt0001" x="0" y="0" width="494" height="664"/>
+	<SubTexture name="eddmatt0002" x="494" y="0" width="494" height="664"/>
+	<SubTexture name="eddmatt0003" x="988" y="0" width="494" height="664"/>
+	<SubTexture name="eddmatt0004" x="988" y="0" width="494" height="664"/>
+	<SubTexture name="eddmatt0005" x="1482" y="0" width="494" height="664"/>
+	<SubTexture name="eddmatt0006" x="0" y="0" width="494" height="664"/>
+	<SubTexture name="eddmatt0007" x="0" y="0" width="494" height="664"/>
+	<SubTexture name="eddmatt0008" x="0" y="0" width="494" height="664"/>
+	<SubTexture name="eddmatt0009" x="0" y="0" width="494" height="664"/>
+	<SubTexture name="eddmatt0010" x="0" y="0" width="494" height="664"/>
+	<SubTexture name="eddmatt0011" x="0" y="0" width="494" height="664"/>
+	<SubTexture name="eddmatt0012" x="0" y="0" width="494" height="664"/>
+	<SubTexture name="eddmatt0013" x="0" y="0" width="494" height="664"/>
+	<SubTexture name="eddmatt0014" x="0" y="0" width="494" height="664"/>
+</TextureAtlas>

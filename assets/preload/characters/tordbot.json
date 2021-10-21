@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				173,
+				1674
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tordbot left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				275,
+				1671
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tordbot idl",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				310,
+				1670
+			],
+			"anim": "shot",
+			"fps": 24,
+			"name": "tordbot shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				256,
+				1575
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tordbot down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				192,
+				1645
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tordbot right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				1696
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tordbot up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tordbot",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "tordbot",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		20,
+		20
+	],
+	"camera_position": [
+		-350,
+		-2252
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

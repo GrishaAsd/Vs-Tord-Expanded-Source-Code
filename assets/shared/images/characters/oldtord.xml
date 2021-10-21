@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="oldtord.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tord down0000" x="0" y="0" width="328" height="533" pivotX="56.6" pivotY="-143"/>
+	<SubTexture name="tord down0001" x="0" y="0" width="328" height="533"/>
+	<SubTexture name="tord down0002" x="328" y="0" width="328" height="533"/>
+	<SubTexture name="tord down0003" x="328" y="0" width="328" height="533"/>
+	<SubTexture name="tord down0004" x="328" y="0" width="328" height="533"/>
+	<SubTexture name="tord down0005" x="328" y="0" width="328" height="533"/>
+	<SubTexture name="tord down0006" x="328" y="0" width="328" height="533"/>
+	<SubTexture name="tord down0007" x="328" y="0" width="328" height="533"/>
+	<SubTexture name="tord down0008" x="328" y="0" width="328" height="533"/>
+	<SubTexture name="tord down0009" x="328" y="0" width="328" height="533"/>
+	<SubTexture name="tord down0010" x="328" y="0" width="328" height="533"/>
+	<SubTexture name="tord down0011" x="328" y="0" width="328" height="533"/>
+	<SubTexture name="tord down0012" x="328" y="0" width="328" height="533"/>
+	<SubTexture name="tord down0013" x="328" y="0" width="328" height="533"/>
+	<SubTexture name="tord down0014" x="328" y="0" width="328" height="533"/>
+	<SubTexture name="tord idle0000" x="656" y="0" width="358" height="598" pivotX="31.15" pivotY="-80.05"/>
+	<SubTexture name="tord idle0001" x="1014" y="0" width="358" height="598"/>
+	<SubTexture name="tord idle0002" x="1372" y="0" width="358" height="598"/>
+	<SubTexture name="tord idle0003" x="0" y="598" width="358" height="598"/>
+	<SubTexture name="tord idle0004" x="358" y="598" width="358" height="598"/>
+	<SubTexture name="tord idle0005" x="716" y="598" width="358" height="598"/>
+	<SubTexture name="tord idle0006" x="1074" y="598" width="358" height="598"/>
+	<SubTexture name="tord idle0007" x="1074" y="598" width="358" height="598"/>
+	<SubTexture name="tord idle0008" x="1074" y="598" width="358" height="598"/>
+	<SubTexture name="tord idle0009" x="1074" y="598" width="358" height="598"/>
+	<SubTexture name="tord idle0010" x="1074" y="598" width="358" height="598"/>
+	<SubTexture name="tord idle0011" x="1074" y="598" width="358" height="598"/>
+	<SubTexture name="tord idle0012" x="1074" y="598" width="358" height="598"/>
+	<SubTexture name="tord idle0013" x="1074" y="598" width="358" height="598"/>
+	<SubTexture name="tord left0000" x="1432" y="598" width="329" height="590" pivotX="51.4" pivotY="-88.75"/>
+	<SubTexture name="tord left0001" x="1432" y="598" width="329" height="590"/>
+	<SubTexture name="tord left0002" x="0" y="1196" width="329" height="590"/>
+	<SubTexture name="tord left0003" x="0" y="1196" width="329" height="590"/>
+	<SubTexture name="tord left0004" x="0" y="1196" width="329" height="590"/>
+	<SubTexture name="tord left0005" x="0" y="1196" width="329" height="590"/>
+	<SubTexture name="tord left0006" x="0" y="1196" width="329" height="590"/>
+	<SubTexture name="tord left0007" x="0" y="1196" width="329" height="590"/>
+	<SubTexture name="tord left0008" x="0" y="1196" width="329" height="590"/>
+	<SubTexture name="tord left0009" x="0" y="1196" width="329" height="590"/>
+	<SubTexture name="tord left0010" x="0" y="1196" width="329" height="590"/>
+	<SubTexture name="tord left0011" x="0" y="1196" width="329" height="590"/>
+	<SubTexture name="tord left0012" x="0" y="1196" width="329" height="590"/>
+	<SubTexture name="tord left0013" x="0" y="1196" width="329" height="590"/>
+	<SubTexture name="tord left0014" x="0" y="1196" width="329" height="590"/>
+	<SubTexture name="tord right0000" x="329" y="1196" width="370" height="593" pivotX="70.1" pivotY="-85.2"/>
+	<SubTexture name="tord right0001" x="329" y="1196" width="370" height="593"/>
+	<SubTexture name="tord right0002" x="699" y="1196" width="370" height="593"/>
+	<SubTexture name="tord right0003" x="699" y="1196" width="370" height="593"/>
+	<SubTexture name="tord right0004" x="699" y="1196" width="370" height="593"/>
+	<SubTexture name="tord right0005" x="699" y="1196" width="370" height="593"/>
+	<SubTexture name="tord right0006" x="699" y="1196" width="370" height="593"/>
+	<SubTexture name="tord right0007" x="699" y="1196" width="370" height="593"/>
+	<SubTexture name="tord right0008" x="699" y="1196" width="370" height="593"/>
+	<SubTexture name="tord right0009" x="699" y="1196" width="370" height="593"/>
+	<SubTexture name="tord right0010" x="699" y="1196" width="370" height="593"/>
+	<SubTexture name="tord right0011" x="699" y="1196" width="370" height="593"/>
+	<SubTexture name="tord right0012" x="699" y="1196" width="370" height="593"/>
+	<SubTexture name="tord right0013" x="699" y="1196" width="370" height="593"/>
+	<SubTexture name="tord right0014" x="699" y="1196" width="370" height="593"/>
+	<SubTexture name="tord up0000" x="1069" y="1196" width="336" height="609" pivotX="49.2" pivotY="-70.8"/>
+	<SubTexture name="tord up0001" x="1069" y="1196" width="336" height="609"/>
+	<SubTexture name="tord up0002" x="1405" y="1196" width="336" height="609"/>
+	<SubTexture name="tord up0003" x="1405" y="1196" width="336" height="609"/>
+	<SubTexture name="tord up0004" x="1405" y="1196" width="336" height="609"/>
+	<SubTexture name="tord up0005" x="1405" y="1196" width="336" height="609"/>
+	<SubTexture name="tord up0006" x="1405" y="1196" width="336" height="609"/>
+	<SubTexture name="tord up0007" x="1405" y="1196" width="336" height="609"/>
+	<SubTexture name="tord up0008" x="1405" y="1196" width="336" height="609"/>
+	<SubTexture name="tord up0009" x="1405" y="1196" width="336" height="609"/>
+	<SubTexture name="tord up0010" x="1405" y="1196" width="336" height="609"/>
+	<SubTexture name="tord up0011" x="1405" y="1196" width="336" height="609"/>
+	<SubTexture name="tord up0012" x="1405" y="1196" width="336" height="609"/>
+	<SubTexture name="tord up0013" x="1405" y="1196" width="336" height="609"/>
+	<SubTexture name="tord up0014" x="1405" y="1196" width="336" height="609"/>
+</TextureAtlas>

@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-123,
+				48
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tord crying",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/tordcrying",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "tordcrying",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		20,
+		20
+	],
+	"camera_position": [
+		-40,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

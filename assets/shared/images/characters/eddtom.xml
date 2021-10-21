@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eddtom.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="oldedd0000" x="0" y="0" width="508" height="644" frameX="-9" frameY="-8" frameWidth="517" frameHeight="652"/>
+	<SubTexture name="oldedd0001" x="508" y="0" width="508" height="643" frameX="-6" frameY="-8" frameWidth="517" frameHeight="652"/>
+	<SubTexture name="oldedd0002" x="1016" y="0" width="508" height="644" frameX="-4" frameY="-7" frameWidth="517" frameHeight="652"/>
+	<SubTexture name="oldedd0003" x="1524" y="0" width="508" height="648" frameX="-2" frameY="-3" frameWidth="517" frameHeight="652"/>
+	<SubTexture name="oldedd0004" x="2032" y="0" width="508" height="650" frameX="-1" frameY="-1" frameWidth="517" frameHeight="652"/>
+	<SubTexture name="oldedd0005" x="2540" y="0" width="508" height="651" frameX="-1" frameY="0" frameWidth="517" frameHeight="652"/>
+	<SubTexture name="oldedd0006" x="0" y="651" width="508" height="651" frameX="-1" frameY="0" frameWidth="517" frameHeight="652"/>
+	<SubTexture name="oldedd0007" x="508" y="651" width="508" height="651" frameX="-1" frameY="0" frameWidth="517" frameHeight="652"/>
+	<SubTexture name="oldedd0008" x="1016" y="651" width="508" height="651" frameX="-1" frameY="0" frameWidth="517" frameHeight="652"/>
+	<SubTexture name="oldedd0009" x="1016" y="651" width="508" height="651" frameX="-1" frameY="0" frameWidth="517" frameHeight="652"/>
+	<SubTexture name="oldedd0010" x="1016" y="651" width="508" height="651" frameX="-1" frameY="0" frameWidth="517" frameHeight="652"/>
+	<SubTexture name="oldedd0011" x="1524" y="651" width="509" height="651" frameX="0" frameY="0" frameWidth="517" frameHeight="652"/>
+	<SubTexture name="oldedd0012" x="1524" y="651" width="509" height="651" frameX="0" frameY="0" frameWidth="517" frameHeight="652"/>
+	<SubTexture name="oldedd0013" x="2033" y="651" width="509" height="650" frameX="0" frameY="0" frameWidth="517" frameHeight="652"/>
+</TextureAtlas>

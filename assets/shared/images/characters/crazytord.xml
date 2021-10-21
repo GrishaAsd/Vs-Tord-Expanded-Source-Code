@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crazytord.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crazytorddown0000" x="1787" y="707" width="335" height="686"/>
+	<SubTexture name="crazytorddown0001" x="1787" y="707" width="335" height="686"/>
+	<SubTexture name="crazytorddown0002" x="1787" y="1428" width="332" height="678" frameX="-2" frameY="-8" frameWidth="335" frameHeight="686"/>
+	<SubTexture name="crazytorddown0003" x="2119" y="1428" width="330" height="668" frameX="-2" frameY="-18" frameWidth="335" frameHeight="686"/>
+	<SubTexture name="crazytorddown0004" x="2119" y="1428" width="330" height="668" frameX="-2" frameY="-18" frameWidth="335" frameHeight="686"/>
+	<SubTexture name="crazytorddown0005" x="2119" y="1428" width="330" height="668" frameX="-2" frameY="-18" frameWidth="335" frameHeight="686"/>
+	<SubTexture name="crazytorddown0006" x="2119" y="1428" width="330" height="668" frameX="-2" frameY="-18" frameWidth="335" frameHeight="686"/>
+	<SubTexture name="crazytorddown0007" x="2119" y="1428" width="330" height="668" frameX="-2" frameY="-18" frameWidth="335" frameHeight="686"/>
+	<SubTexture name="crazytorddown0008" x="2119" y="1428" width="330" height="668" frameX="-2" frameY="-18" frameWidth="335" frameHeight="686"/>
+	<SubTexture name="crazytorddown0009" x="2119" y="1428" width="330" height="668" frameX="-2" frameY="-18" frameWidth="335" frameHeight="686"/>
+	<SubTexture name="crazytorddown0010" x="2119" y="1428" width="330" height="668" frameX="-2" frameY="-18" frameWidth="335" frameHeight="686"/>
+	<SubTexture name="crazytorddown0011" x="2119" y="1428" width="330" height="668" frameX="-2" frameY="-18" frameWidth="335" frameHeight="686"/>
+	<SubTexture name="crazytorddown0012" x="2119" y="1428" width="330" height="668" frameX="-2" frameY="-18" frameWidth="335" frameHeight="686"/>
+	<SubTexture name="crazytorddown0013" x="2119" y="1428" width="330" height="668" frameX="-2" frameY="-18" frameWidth="335" frameHeight="686"/>
+	<SubTexture name="crazytorddown0014" x="2119" y="1428" width="330" height="668" frameX="-2" frameY="-18" frameWidth="335" frameHeight="686"/>
+	<SubTexture name="crazytordidle0000" x="1777" y="2110" width="354" height="705" frameX="0" frameY="-6" frameWidth="354" frameHeight="714"/>
+	<SubTexture name="crazytordidle0001" x="1777" y="2110" width="354" height="705" frameX="0" frameY="-6" frameWidth="354" frameHeight="714"/>
+	<SubTexture name="crazytordidle0002" x="2479" y="709" width="350" height="708" frameX="0" frameY="-6" frameWidth="354" frameHeight="714"/>
+	<SubTexture name="crazytordidle0003" x="2479" y="709" width="350" height="708" frameX="0" frameY="-6" frameWidth="354" frameHeight="714"/>
+	<SubTexture name="crazytordidle0004" x="2477" y="1417" width="346" height="713" frameX="-2" frameY="-1" frameWidth="354" frameHeight="714"/>
+	<SubTexture name="crazytordidle0005" x="2477" y="1417" width="346" height="713" frameX="-2" frameY="-1" frameWidth="354" frameHeight="714"/>
+	<SubTexture name="crazytordidle0006" x="2131" y="714" width="346" height="714" frameX="-2" frameY="0" frameWidth="354" frameHeight="714"/>
+	<SubTexture name="crazytordidle0007" x="2131" y="714" width="346" height="714" frameX="-2" frameY="0" frameWidth="354" frameHeight="714"/>
+	<SubTexture name="crazytordidle0008" x="2131" y="714" width="346" height="714" frameX="-2" frameY="0" frameWidth="354" frameHeight="714"/>
+	<SubTexture name="crazytordidle0009" x="2131" y="714" width="346" height="714" frameX="-2" frameY="0" frameWidth="354" frameHeight="714"/>
+	<SubTexture name="crazytordidle0010" x="2131" y="714" width="346" height="714" frameX="-2" frameY="0" frameWidth="354" frameHeight="714"/>
+	<SubTexture name="crazytordidle0011" x="2131" y="714" width="346" height="714" frameX="-2" frameY="0" frameWidth="354" frameHeight="714"/>
+	<SubTexture name="crazytordidle0012" x="2131" y="714" width="346" height="714" frameX="-2" frameY="0" frameWidth="354" frameHeight="714"/>
+	<SubTexture name="crazytordidle0013" x="2131" y="714" width="346" height="714" frameX="-2" frameY="0" frameWidth="354" frameHeight="714"/>
+	<SubTexture name="crazytordidle0014" x="2131" y="714" width="346" height="714" frameX="-2" frameY="0" frameWidth="354" frameHeight="714"/>
+	<SubTexture name="crazytordlaugh0000" x="0" y="0" width="487" height="705"/>
+	<SubTexture name="crazytordlaugh0001" x="0" y="705" width="484" height="705" frameX="0" frameY="0" frameWidth="487" frameHeight="705"/>
+	<SubTexture name="crazytordlaugh0002" x="0" y="2115" width="478" height="704" frameX="-3" frameY="-1" frameWidth="487" frameHeight="705"/>
+	<SubTexture name="crazytordlaugh0003" x="955" y="1408" width="471" height="703" frameX="-7" frameY="-2" frameWidth="487" frameHeight="705"/>
+	<SubTexture name="crazytordlaugh0004" x="961" y="703" width="469" height="703" frameX="-7" frameY="-2" frameWidth="487" frameHeight="705"/>
+	<SubTexture name="crazytordlaugh0005" x="953" y="2114" width="473" height="705" frameX="0" frameY="0" frameWidth="487" frameHeight="705"/>
+	<SubTexture name="crazytordlaugh0006" x="0" y="1410" width="478" height="705" frameX="0" frameY="0" frameWidth="487" frameHeight="705"/>
+	<SubTexture name="crazytordlaugh0007" x="478" y="1410" width="477" height="704" frameX="-3" frameY="-1" frameWidth="487" frameHeight="705"/>
+	<SubTexture name="crazytordlaugh0008" x="478" y="2114" width="475" height="703" frameX="-7" frameY="-2" frameWidth="487" frameHeight="705"/>
+	<SubTexture name="crazytordlaugh0009" x="487" y="0" width="476" height="703" frameX="-7" frameY="-2" frameWidth="487" frameHeight="705"/>
+	<SubTexture name="crazytordlaugh0010" x="484" y="705" width="477" height="703" frameX="-7" frameY="-2" frameWidth="487" frameHeight="705"/>
+	<SubTexture name="crazytordlaugh0011" x="484" y="705" width="477" height="703" frameX="-7" frameY="-2" frameWidth="487" frameHeight="705"/>
+	<SubTexture name="crazytordlaugh0012" x="484" y="705" width="477" height="703" frameX="-7" frameY="-2" frameWidth="487" frameHeight="705"/>
+	<SubTexture name="crazytordlaugh0013" x="484" y="705" width="477" height="703" frameX="-7" frameY="-2" frameWidth="487" frameHeight="705"/>
+	<SubTexture name="crazytordlaugh0014" x="484" y="705" width="477" height="703" frameX="-7" frameY="-2" frameWidth="487" frameHeight="705"/>
+	<SubTexture name="crazytordleft0000" x="1709" y="0" width="349" height="707" frameX="-33" frameY="-2" frameWidth="382" frameHeight="709"/>
+	<SubTexture name="crazytordleft0001" x="1709" y="0" width="349" height="707" frameX="-33" frameY="-2" frameWidth="382" frameHeight="709"/>
+	<SubTexture name="crazytordleft0002" x="2479" y="0" width="350" height="709" frameX="-19" frameY="0" frameWidth="382" frameHeight="709"/>
+	<SubTexture name="crazytordleft0003" x="2481" y="2130" width="346" height="709" frameX="0" frameY="0" frameWidth="382" frameHeight="709"/>
+	<SubTexture name="crazytordleft0004" x="2481" y="2130" width="346" height="709" frameX="0" frameY="0" frameWidth="382" frameHeight="709"/>
+	<SubTexture name="crazytordleft0005" x="2481" y="2130" width="346" height="709" frameX="0" frameY="0" frameWidth="382" frameHeight="709"/>
+	<SubTexture name="crazytordleft0006" x="2481" y="2130" width="346" height="709" frameX="0" frameY="0" frameWidth="382" frameHeight="709"/>
+	<SubTexture name="crazytordleft0007" x="2481" y="2130" width="346" height="709" frameX="0" frameY="0" frameWidth="382" frameHeight="709"/>
+	<SubTexture name="crazytordleft0008" x="2481" y="2130" width="346" height="709" frameX="0" frameY="0" frameWidth="382" frameHeight="709"/>
+	<SubTexture name="crazytordleft0009" x="2481" y="2130" width="346" height="709" frameX="0" frameY="0" frameWidth="382" frameHeight="709"/>
+	<SubTexture name="crazytordleft0010" x="2481" y="2130" width="346" height="709" frameX="0" frameY="0" frameWidth="382" frameHeight="709"/>
+	<SubTexture name="crazytordleft0011" x="2481" y="2130" width="346" height="709" frameX="0" frameY="0" frameWidth="382" frameHeight="709"/>
+	<SubTexture name="crazytordleft0012" x="2481" y="2130" width="346" height="709" frameX="0" frameY="0" frameWidth="382" frameHeight="709"/>
+	<SubTexture name="crazytordleft0013" x="2481" y="2130" width="346" height="709" frameX="0" frameY="0" frameWidth="382" frameHeight="709"/>
+	<SubTexture name="crazytordleft0014" x="2481" y="2130" width="346" height="709" frameX="0" frameY="0" frameWidth="382" frameHeight="709"/>
+	<SubTexture name="crazytordright0000" x="1426" y="1406" width="361" height="704" frameX="0" frameY="0" frameWidth="394" frameHeight="704"/>
+	<SubTexture name="crazytordright0001" x="1426" y="1406" width="361" height="704" frameX="0" frameY="0" frameWidth="394" frameHeight="704"/>
+	<SubTexture name="crazytordright0002" x="1338" y="0" width="371" height="703" frameX="-16" frameY="0" frameWidth="394" frameHeight="704"/>
+	<SubTexture name="crazytordright0003" x="963" y="0" width="375" height="702" frameX="-19" frameY="-1" frameWidth="394" frameHeight="704"/>
+	<SubTexture name="crazytordright0004" x="963" y="0" width="375" height="702" frameX="-19" frameY="-1" frameWidth="394" frameHeight="704"/>
+	<SubTexture name="crazytordright0005" x="963" y="0" width="375" height="702" frameX="-19" frameY="-1" frameWidth="394" frameHeight="704"/>
+	<SubTexture name="crazytordright0006" x="963" y="0" width="375" height="702" frameX="-19" frameY="-1" frameWidth="394" frameHeight="704"/>
+	<SubTexture name="crazytordright0007" x="963" y="0" width="375" height="702" frameX="-19" frameY="-1" frameWidth="394" frameHeight="704"/>
+	<SubTexture name="crazytordright0008" x="963" y="0" width="375" height="702" frameX="-19" frameY="-1" frameWidth="394" frameHeight="704"/>
+	<SubTexture name="crazytordright0009" x="963" y="0" width="375" height="702" frameX="-19" frameY="-1" frameWidth="394" frameHeight="704"/>
+	<SubTexture name="crazytordright0010" x="963" y="0" width="375" height="702" frameX="-19" frameY="-1" frameWidth="394" frameHeight="704"/>
+	<SubTexture name="crazytordright0011" x="963" y="0" width="375" height="702" frameX="-19" frameY="-1" frameWidth="394" frameHeight="704"/>
+	<SubTexture name="crazytordright0012" x="963" y="0" width="375" height="702" frameX="-19" frameY="-1" frameWidth="394" frameHeight="704"/>
+	<SubTexture name="crazytordright0013" x="963" y="0" width="375" height="702" frameX="-19" frameY="-1" frameWidth="394" frameHeight="704"/>
+	<SubTexture name="crazytordright0014" x="963" y="0" width="375" height="702" frameX="-19" frameY="-1" frameWidth="394" frameHeight="704"/>
+	<SubTexture name="crazytordup0000" x="2131" y="2130" width="350" height="704" frameX="-19" frameY="-9" frameWidth="369" frameHeight="716"/>
+	<SubTexture name="crazytordup0001" x="2131" y="2130" width="350" height="704" frameX="-19" frameY="-9" frameWidth="369" frameHeight="716"/>
+	<SubTexture name="crazytordup0002" x="2131" y="0" width="348" height="714" frameX="-9" frameY="-1" frameWidth="369" frameHeight="716"/>
+	<SubTexture name="crazytordup0003" x="1426" y="2110" width="351" height="716" frameX="0" frameY="0" frameWidth="369" frameHeight="716"/>
+	<SubTexture name="crazytordup0004" x="1426" y="2110" width="351" height="716" frameX="0" frameY="0" frameWidth="369" frameHeight="716"/>
+	<SubTexture name="crazytordup0005" x="1426" y="2110" width="351" height="716" frameX="0" frameY="0" frameWidth="369" frameHeight="716"/>
+	<SubTexture name="crazytordup0006" x="1426" y="2110" width="351" height="716" frameX="0" frameY="0" frameWidth="369" frameHeight="716"/>
+	<SubTexture name="crazytordup0007" x="1426" y="2110" width="351" height="716" frameX="0" frameY="0" frameWidth="369" frameHeight="716"/>
+	<SubTexture name="crazytordup0008" x="1426" y="2110" width="351" height="716" frameX="0" frameY="0" frameWidth="369" frameHeight="716"/>
+	<SubTexture name="crazytordup0009" x="1426" y="2110" width="351" height="716" frameX="0" frameY="0" frameWidth="369" frameHeight="716"/>
+	<SubTexture name="crazytordup0010" x="1426" y="2110" width="351" height="716" frameX="0" frameY="0" frameWidth="369" frameHeight="716"/>
+	<SubTexture name="crazytordup0011" x="1426" y="2110" width="351" height="716" frameX="0" frameY="0" frameWidth="369" frameHeight="716"/>
+	<SubTexture name="crazytordup0012" x="1426" y="2110" width="351" height="716" frameX="0" frameY="0" frameWidth="369" frameHeight="716"/>
+	<SubTexture name="crazytordup0013" x="1426" y="2110" width="351" height="716" frameX="0" frameY="0" frameWidth="369" frameHeight="716"/>
+	<SubTexture name="crazytordup0014" x="1426" y="2110" width="351" height="716" frameX="0" frameY="0" frameWidth="369" frameHeight="716"/>
+</TextureAtlas>

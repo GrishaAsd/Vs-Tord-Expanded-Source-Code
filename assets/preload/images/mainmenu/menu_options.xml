@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_options.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="options basic0000" x="0" y="0" width="581" height="224"/>
+	<SubTexture name="options white0000" x="581" y="0" width="576" height="220" frameX="-9" frameY="-3" frameWidth="594" frameHeight="227"/>
+	<SubTexture name="options white0001" x="1157" y="0" width="577" height="220" frameX="-9" frameY="-3" frameWidth="594" frameHeight="227"/>
+	<SubTexture name="options white0002" x="1157" y="0" width="577" height="220" frameX="-9" frameY="-3" frameWidth="594" frameHeight="227"/>
+	<SubTexture name="options white0003" x="1734" y="0" width="578" height="220" frameX="-8" frameY="-3" frameWidth="594" frameHeight="227"/>
+	<SubTexture name="options white0004" x="0" y="224" width="579" height="220" frameX="-8" frameY="-3" frameWidth="594" frameHeight="227"/>
+	<SubTexture name="options white0005" x="579" y="224" width="581" height="222" frameX="-7" frameY="-2" frameWidth="594" frameHeight="227"/>
+	<SubTexture name="options white0006" x="1160" y="224" width="584" height="222" frameX="-5" frameY="-2" frameWidth="594" frameHeight="227"/>
+	<SubTexture name="options white0007" x="1744" y="224" width="587" height="224" frameX="-4" frameY="-1" frameWidth="594" frameHeight="227"/>
+	<SubTexture name="options white0008" x="0" y="448" width="591" height="226" frameX="-2" frameY="0" frameWidth="594" frameHeight="227"/>
+	<SubTexture name="options white0009" x="591" y="448" width="594" height="227"/>
+	<SubTexture name="options white0010" x="1185" y="448" width="591" height="226" frameX="-2" frameY="0" frameWidth="594" frameHeight="227"/>
+	<SubTexture name="options white0011" x="1776" y="448" width="587" height="224" frameX="-4" frameY="-1" frameWidth="594" frameHeight="227"/>
+	<SubTexture name="options white0012" x="1160" y="224" width="584" height="222" frameX="-5" frameY="-2" frameWidth="594" frameHeight="227"/>
+	<SubTexture name="options white0013" x="579" y="224" width="581" height="222" frameX="-7" frameY="-2" frameWidth="594" frameHeight="227"/>
+	<SubTexture name="options white0014" x="0" y="224" width="579" height="220" frameX="-8" frameY="-3" frameWidth="594" frameHeight="227"/>
+	<SubTexture name="options white0015" x="0" y="675" width="579" height="220" frameX="-8" frameY="-3" frameWidth="594" frameHeight="227"/>
+	<SubTexture name="options white0016" x="579" y="675" width="577" height="220" frameX="-9" frameY="-3" frameWidth="594" frameHeight="227"/>
+	<SubTexture name="options white0017" x="1157" y="0" width="577" height="220" frameX="-9" frameY="-3" frameWidth="594" frameHeight="227"/>
+	<SubTexture name="options white0018" x="1157" y="0" width="577" height="220" frameX="-9" frameY="-3" frameWidth="594" frameHeight="227"/>
+	<SubTexture name="options white0019" x="581" y="0" width="576" height="220" frameX="-9" frameY="-3" frameWidth="594" frameHeight="227"/>
+</TextureAtlas>

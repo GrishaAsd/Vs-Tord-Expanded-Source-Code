@@ -1,0 +1,48 @@
+{
+	"storyName": "Your New Week",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tordweek",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"songs": [
+		[
+			"paradox",
+			"oldtord",
+			[
+				200,
+				200,
+				200
+			]
+		],
+		[
+			"lollipops",
+			"tordcrying",
+			[
+				200,
+				200,
+				200
+			]
+		],
+		[
+			"ha-ha!",
+			"crazytord",
+			[
+				200,
+				200,
+				200
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "bonusweek"
+}

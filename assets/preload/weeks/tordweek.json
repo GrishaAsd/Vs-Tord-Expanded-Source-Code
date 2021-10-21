@@ -1,0 +1,57 @@
+{
+	"storyName": "backdoor turnabout",
+	"hideFreeplay": false,
+	"weekBackground": "tordstage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"norway",
+			"tord",
+			[
+				200,
+				200,
+				200
+			]
+		],
+		[
+			"norski",
+			"tord",
+			[
+				200,
+				200,
+				200
+			]
+		],
+		[
+			"target",
+			"tordangry",
+			[
+				200,
+				200,
+				200
+			]
+		],
+		[
+			"the-end",
+			"tordbot",
+			[
+				200,
+				200,
+				200
+			]
+		]
+	],
+	"weekName": "week1"
+}

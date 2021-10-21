@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-105,
+				244
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tord left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-134,
+				244
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tord down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				277
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tord up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-138,
+				244
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tord right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-125,
+				250
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tord idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-133,
+				249
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": "tord laugh"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				250
+			],
+			"anim": "angry",
+			"fps": 24,
+			"name": "tord angry idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tord",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "tord",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		20,
+		20
+	],
+	"camera_position": [
+		-40,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
